@@ -80,6 +80,6 @@
 
 # ЗАПУСК ТЕСТОВ
 
-pytest tests/test_palindrome.py
-pytest tests/test_max_even_sum.py
+pytest tests/test_palindrome.py\
+pytest tests/test_max_even_sum.py\
 pytest tests/test_count_primes.py
